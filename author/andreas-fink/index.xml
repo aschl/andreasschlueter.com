@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andreas Fink | Andreas Schlueter</title>
+    <link>https://aschl.github.io/author/andreas-fink/</link>
+      <atom:link href="https://aschl.github.io/author/andreas-fink/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andreas Fink</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aschl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Andreas Fink</title>
+      <link>https://aschl.github.io/author/andreas-fink/</link>
+    </image>
+    
+    <item>
+      <title>Sensitivity of West African precipitation to lateral terrestrial water flow in WRF-Hydro</title>
+      <link>https://aschl.github.io/publication/arnault-2018-sensitivity/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://aschl.github.io/publication/arnault-2018-sensitivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical postprocessing for precipitation forecasts during the West African Monsoon</title>
+      <link>https://aschl.github.io/publication/vogel-2016-statistical/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://aschl.github.io/publication/vogel-2016-statistical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

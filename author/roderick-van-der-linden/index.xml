@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roderick van der Linden | Andreas Schlueter</title>
+    <link>https://aschl.github.io/author/roderick-van-der-linden/</link>
+      <atom:link href="https://aschl.github.io/author/roderick-van-der-linden/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roderick van der Linden</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aschl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Roderick van der Linden</title>
+      <link>https://aschl.github.io/author/roderick-van-der-linden/</link>
+    </image>
+    
+    <item>
+      <title>A Systematic Comparison of Tropical Waves over Western and Eastern Equatorial Africa</title>
+      <link>https://aschl.github.io/publication/fink-2020-systematic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://aschl.github.io/publication/fink-2020-systematic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modulation of precipitation over West Africa by equatorial waves</title>
+      <link>https://aschl.github.io/publication/schluter-2017-modulation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://aschl.github.io/publication/schluter-2017-modulation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
