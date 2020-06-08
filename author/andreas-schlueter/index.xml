@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andreas Schlueter</title>
-    <link>https://aschl.github.io/author/andreas-schlueter/</link>
-      <atom:link href="https://aschl.github.io/author/andreas-schlueter/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.andreasschlueter.com/author/andreas-schlueter/</link>
+      <atom:link href="https://www.andreasschlueter.com/author/andreas-schlueter/index.xml" rel="self" type="application/rss+xml" />
     <description>Andreas Schlueter</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aschl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.andreasschlueter.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Andreas Schlueter</title>
-      <link>https://aschl.github.io/author/andreas-schlueter/</link>
+      <link>https://www.andreasschlueter.com/author/andreas-schlueter/</link>
     </image>
     
     <item>
       <title>A Systematic Comparison of Tropical Waves over Western and Eastern Equatorial Africa</title>
-      <link>https://aschl.github.io/publication/fink-2020-systematic/</link>
+      <link>https://www.andreasschlueter.com/publication/fink-2020-systematic/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://aschl.github.io/publication/fink-2020-systematic/</guid>
+      <guid>https://www.andreasschlueter.com/publication/fink-2020-systematic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skill of Global Raw and Postprocessed Ensemble Predictions of Rainfall in the Tropics</title>
-      <link>https://aschl.github.io/publication/knippertz-2020-skill/</link>
+      <link>https://www.andreasschlueter.com/publication/knippertz-2020-skill/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://aschl.github.io/publication/knippertz-2020-skill/</guid>
+      <guid>https://www.andreasschlueter.com/publication/knippertz-2020-skill/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Forecasts for the Occurrence of Precipitation Outperform Global Models over Northern Tropical Africa</title>
-      <link>https://aschl.github.io/publication/knippertz-2020-statistical/</link>
+      <link>https://www.andreasschlueter.com/publication/knippertz-2020-statistical/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://aschl.github.io/publication/knippertz-2020-statistical/</guid>
+      <guid>https://www.andreasschlueter.com/publication/knippertz-2020-statistical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Forecasts for the Occurrence of Precipitation Outperform Global Models over Northern Tropical Africa</title>
-      <link>https://aschl.github.io/publication/vogel-2020-statistical/</link>
+      <link>https://www.andreasschlueter.com/publication/vogel-2020-statistical/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://aschl.github.io/publication/vogel-2020-statistical/</guid>
+      <guid>https://www.andreasschlueter.com/publication/vogel-2020-statistical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synoptic to Intraseasonal Variability of African Rainfall</title>
-      <link>https://aschl.github.io/publication/schlueter-2020-synoptic/</link>
+      <link>https://www.andreasschlueter.com/publication/schlueter-2020-synoptic/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://aschl.github.io/publication/schlueter-2020-synoptic/</guid>
+      <guid>https://www.andreasschlueter.com/publication/schlueter-2020-synoptic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A systematic comparison of tropical waves over northern Africa.</title>
-      <link>https://aschl.github.io/publication/schlueter-2019-systematic/</link>
+      <link>https://www.andreasschlueter.com/publication/schlueter-2019-systematic/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://aschl.github.io/publication/schlueter-2019-systematic/</guid>
+      <guid>https://www.andreasschlueter.com/publication/schlueter-2019-systematic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skill of Global Raw and Postprocessed Ensemble Predictions in the Tropics.</title>
-      <link>https://aschl.github.io/publication/vogel-2019-skill/</link>
+      <link>https://www.andreasschlueter.com/publication/vogel-2019-skill/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://aschl.github.io/publication/vogel-2019-skill/</guid>
+      <guid>https://www.andreasschlueter.com/publication/vogel-2019-skill/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skill of global raw and postprocessed ensemble predictions of rainfall over northern tropical Africa</title>
-      <link>https://aschl.github.io/publication/vogel-2018-skill/</link>
+      <link>https://www.andreasschlueter.com/publication/vogel-2018-skill/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://aschl.github.io/publication/vogel-2018-skill/</guid>
+      <guid>https://www.andreasschlueter.com/publication/vogel-2018-skill/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Forecasting of Tropical Rainfall Based on Spatio-Temporal Correlations and Equatorial Waves</title>
-      <link>https://aschl.github.io/publication/schlueter-2018-statistical/</link>
+      <link>https://www.andreasschlueter.com/publication/schlueter-2018-statistical/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://aschl.github.io/publication/schlueter-2018-statistical/</guid>
+      <guid>https://www.andreasschlueter.com/publication/schlueter-2018-statistical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Rainfall Forecasts in the Tropics Based on Spatio-Temporal Precipitation Properties and Tropical Wave Activity</title>
-      <link>https://aschl.github.io/publication/vogel-2018-statistical/</link>
+      <link>https://www.andreasschlueter.com/publication/vogel-2018-statistical/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://aschl.github.io/publication/vogel-2018-statistical/</guid>
+      <guid>https://www.andreasschlueter.com/publication/vogel-2018-statistical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Impact of Climate Modes and Precipitation on Tanzanian Maize</title>
-      <link>https://aschl.github.io/publication/schlueter-2015-impact/</link>
+      <link>https://www.andreasschlueter.com/publication/schlueter-2015-impact/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://aschl.github.io/publication/schlueter-2015-impact/</guid>
+      <guid>https://www.andreasschlueter.com/publication/schlueter-2015-impact/</guid>
       <description></description>
     </item>
     
