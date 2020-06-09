@@ -5,7 +5,7 @@
     <link>https://www.andreasschlueter.com/publication-type/2/</link>
       <atom:link href="https://www.andreasschlueter.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Schlueter</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.andreasschlueter.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
@@ -13,34 +13,42 @@
     </image>
     
     <item>
-      <title>Statistical Forecasts for the Occurrence of Precipitation Outperform Global Models over Northern Tropical Africa</title>
-      <link>https://www.andreasschlueter.com/publication/vogel-2020-statistical/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/vogel-2020-statistical/</guid>
+      <title>A Systematic Comparison of Tropical Waves over Northern Africa. Part II: Dynamics and Thermodynamics</title>
+      <link>https://www.andreasschlueter.com/publication/schlueter-systematic-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.andreasschlueter.com/publication/schlueter-systematic-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Systematic Comparison of Tropical Waves over Northern Africa. Part I: Influence on Rainfall</title>
+      <link>https://www.andreasschlueter.com/publication/schlueter-systematic-2019-1/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.andreasschlueter.com/publication/schlueter-systematic-2019-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tropical waves and rainfall over Africa: Variability, mechanisms and potential for forecasting</title>
-      <link>https://www.andreasschlueter.com/publication/schluter-2019-tropical/</link>
+      <link>https://www.andreasschlueter.com/publication/schluter-tropical-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/schluter-2019-tropical/</guid>
+      <guid>https://www.andreasschlueter.com/publication/schluter-tropical-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Skill of global raw and postprocessed ensemble predictions of rainfall over northern tropical Africa</title>
-      <link>https://www.andreasschlueter.com/publication/vogel-2018-skill/</link>
+      <title>Skill of Global Raw and Postprocessed Ensemble Predictions of Rainfall over Northern Tropical Africa</title>
+      <link>https://www.andreasschlueter.com/publication/vogel-skill-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/vogel-2018-skill/</guid>
+      <guid>https://www.andreasschlueter.com/publication/vogel-skill-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A meteorological and chemical overview of the DACCIWA field campaign in West Africa in June--July 2016</title>
-      <link>https://www.andreasschlueter.com/publication/knippertz-2017-meteorological/</link>
+      <title>A meteorological and chemical overview of the DACCIWA field campaign in West Africa in June–July 2016</title>
+      <link>https://www.andreasschlueter.com/publication/knippertz-meteorological-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/knippertz-2017-meteorological/</guid>
+      <guid>https://www.andreasschlueter.com/publication/knippertz-meteorological-2017/</guid>
       <description></description>
     </item>
     

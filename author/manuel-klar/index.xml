@@ -5,7 +5,7 @@
     <link>https://www.andreasschlueter.com/author/manuel-klar/</link>
       <atom:link href="https://www.andreasschlueter.com/author/manuel-klar/index.xml" rel="self" type="application/rss+xml" />
     <description>Manuel Klar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Schlueter</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.andreasschlueter.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Manuel Klar</title>
@@ -13,26 +13,26 @@
     </image>
     
     <item>
-      <title>Statistical Forecasts for the Occurrence of Precipitation Outperform Global Models over Northern Tropical Africa</title>
-      <link>https://www.andreasschlueter.com/publication/vogel-2020-statistical/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/vogel-2020-statistical/</guid>
+      <title>Statistical Rainfall Forecasts in the Tropics Based on Spatio-Temporal Precipitation Properties and Tropical Wave Activity</title>
+      <link>https://www.andreasschlueter.com/publication/vogel-statistical-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.andreasschlueter.com/publication/vogel-statistical-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Statistical Rainfall Forecasts in the Tropics Based on Spatio-Temporal Precipitation Properties and Tropical Wave Activity</title>
-      <link>https://www.andreasschlueter.com/publication/vogel-2018-statistical/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/vogel-2018-statistical/</guid>
+      <title>Statistical forecasting for precipitation over West Africa based on spatio-temporal precipitation properties and tropical wave activity</title>
+      <link>https://www.andreasschlueter.com/publication/vogel-statistical-2017-1/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.andreasschlueter.com/publication/vogel-statistical-2017-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical forecasting of tropical rainfall using equatorial waves</title>
-      <link>https://www.andreasschlueter.com/publication/schluter-2017-statistical/</link>
+      <link>https://www.andreasschlueter.com/publication/schluter-statistical-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/schluter-2017-statistical/</guid>
+      <guid>https://www.andreasschlueter.com/publication/schluter-statistical-2017/</guid>
       <description></description>
     </item>
     

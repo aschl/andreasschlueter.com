@@ -5,7 +5,7 @@
     <link>https://www.andreasschlueter.com/author/andreas-schlueter/</link>
       <atom:link href="https://www.andreasschlueter.com/author/andreas-schlueter/index.xml" rel="self" type="application/rss+xml" />
     <description>Andreas Schlueter</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Schlueter</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.andreasschlueter.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Andreas Schlueter</title>
@@ -13,90 +13,138 @@
     </image>
     
     <item>
+      <title>Synoptic to Intraseasonal Variability of African Rainfall</title>
+      <link>https://www.andreasschlueter.com/publication/schlueter-synoptic-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.andreasschlueter.com/publication/schlueter-synoptic-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Systematic Comparison of Tropical Waves over Western and Eastern Equatorial Africa</title>
-      <link>https://www.andreasschlueter.com/publication/fink-2020-systematic/</link>
+      <link>https://www.andreasschlueter.com/publication/fink-systematic-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/fink-2020-systematic/</guid>
+      <guid>https://www.andreasschlueter.com/publication/fink-systematic-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skill of Global Raw and Postprocessed Ensemble Predictions of Rainfall in the Tropics</title>
-      <link>https://www.andreasschlueter.com/publication/knippertz-2020-skill/</link>
+      <link>https://www.andreasschlueter.com/publication/knippertz-skill-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/knippertz-2020-skill/</guid>
+      <guid>https://www.andreasschlueter.com/publication/knippertz-skill-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Forecasts for the Occurrence of Precipitation Outperform Global Models over Northern Tropical Africa</title>
-      <link>https://www.andreasschlueter.com/publication/knippertz-2020-statistical/</link>
+      <link>https://www.andreasschlueter.com/publication/knippertz-statistical-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/knippertz-2020-statistical/</guid>
+      <guid>https://www.andreasschlueter.com/publication/knippertz-statistical-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Statistical Forecasts for the Occurrence of Precipitation Outperform Global Models over Northern Tropical Africa</title>
-      <link>https://www.andreasschlueter.com/publication/vogel-2020-statistical/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/vogel-2020-statistical/</guid>
+      <title>A Systematic Comparison of Tropical Waves over Northern Africa. Part II: Dynamics and Thermodynamics</title>
+      <link>https://www.andreasschlueter.com/publication/schlueter-systematic-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.andreasschlueter.com/publication/schlueter-systematic-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Synoptic to Intraseasonal Variability of African Rainfall</title>
-      <link>https://www.andreasschlueter.com/publication/schlueter-2020-synoptic/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/schlueter-2020-synoptic/</guid>
+      <title>A Systematic Comparison of Tropical Waves over Northern Africa. Part I: Influence on Rainfall</title>
+      <link>https://www.andreasschlueter.com/publication/schlueter-systematic-2019-1/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.andreasschlueter.com/publication/schlueter-systematic-2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Systematic Comparison of Tropical Waves over Northern Africa</title>
+      <link>https://www.andreasschlueter.com/publication/schlueter-systematic-2019-3/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.andreasschlueter.com/publication/schlueter-systematic-2019-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A systematic comparison of tropical waves over northern Africa.</title>
-      <link>https://www.andreasschlueter.com/publication/schlueter-2019-systematic/</link>
+      <link>https://www.andreasschlueter.com/publication/schlueter-systematic-2019-2/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/schlueter-2019-systematic/</guid>
+      <guid>https://www.andreasschlueter.com/publication/schlueter-systematic-2019-2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Skill of Global Raw and Postprocessed Ensemble Predictions in the Tropics.</title>
-      <link>https://www.andreasschlueter.com/publication/vogel-2019-skill/</link>
+      <title>Skill of Global Raw and Postprocessed Ensemble Predictions in the Tropics</title>
+      <link>https://www.andreasschlueter.com/publication/vogel-skill-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/vogel-2019-skill/</guid>
+      <guid>https://www.andreasschlueter.com/publication/vogel-skill-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Skill of global raw and postprocessed ensemble predictions of rainfall over northern tropical Africa</title>
-      <link>https://www.andreasschlueter.com/publication/vogel-2018-skill/</link>
+      <title>Modulation of Precipitation over West Africa by Equatorial Waves</title>
+      <link>https://www.andreasschlueter.com/publication/schlueter-modulation-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/vogel-2018-skill/</guid>
+      <guid>https://www.andreasschlueter.com/publication/schlueter-modulation-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skill of Global Raw and Postprocessed Ensemble Predictions of Rainfall over Northern Tropical Africa</title>
+      <link>https://www.andreasschlueter.com/publication/vogel-skill-2018-1/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.andreasschlueter.com/publication/vogel-skill-2018-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skill of Global Raw and Postprocessed Ensemble Predictions of Rainfall over Northern Tropical Africa</title>
+      <link>https://www.andreasschlueter.com/publication/vogel-skill-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.andreasschlueter.com/publication/vogel-skill-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Forecasting of Tropical Rainfall Based on Spatio-Temporal Correlations and Equatorial Waves</title>
-      <link>https://www.andreasschlueter.com/publication/schlueter-2018-statistical/</link>
+      <link>https://www.andreasschlueter.com/publication/schlueter-statistical-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/schlueter-2018-statistical/</guid>
+      <guid>https://www.andreasschlueter.com/publication/schlueter-statistical-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Rainfall Forecasts in the Tropics Based on Spatio-Temporal Precipitation Properties and Tropical Wave Activity</title>
-      <link>https://www.andreasschlueter.com/publication/vogel-2018-statistical/</link>
+      <link>https://www.andreasschlueter.com/publication/vogel-statistical-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/vogel-2018-statistical/</guid>
+      <guid>https://www.andreasschlueter.com/publication/vogel-statistical-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Challenge of Classifying Propagating Synoptic Disturbances in the African Tropics – Examples from the DACCIWA Field Campaign</title>
+      <link>https://www.andreasschlueter.com/publication/knippertz-challenge-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.andreasschlueter.com/publication/knippertz-challenge-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A meteorological and chemical overview of the DACCIWA field campaign in West Africa in June–July 2016</title>
+      <link>https://www.andreasschlueter.com/publication/knippertz-meteorological-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.andreasschlueter.com/publication/knippertz-meteorological-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Impact of Climate Modes and Precipitation on Tanzanian Maize</title>
-      <link>https://www.andreasschlueter.com/publication/schlueter-2015-impact/</link>
+      <link>https://www.andreasschlueter.com/publication/schlueter-impact-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/schlueter-2015-impact/</guid>
+      <guid>https://www.andreasschlueter.com/publication/schlueter-impact-2015/</guid>
       <description></description>
     </item>
     
