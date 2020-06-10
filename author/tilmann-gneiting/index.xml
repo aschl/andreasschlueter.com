@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tilmann Gneiting | Andreas Schlueter</title>
-    <link>https://www.andreasschlueter.com/author/tilmann-gneiting/</link>
-      <atom:link href="https://www.andreasschlueter.com/author/tilmann-gneiting/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.andreasschlueter.com/author/tilmann-gneiting/</link>
+      <atom:link href="http://www.andreasschlueter.com/author/tilmann-gneiting/index.xml" rel="self" type="application/rss+xml" />
     <description>Tilmann Gneiting</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Schlueter</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.andreasschlueter.com/images/icon_hu5f3ffe0713a26eb26090eda74b103c3a_32865_512x512_fill_lanczos_center_2.png</url>
+      <url>http://www.andreasschlueter.com/images/icon_hu5f3ffe0713a26eb26090eda74b103c3a_32865_512x512_fill_lanczos_center_2.png</url>
       <title>Tilmann Gneiting</title>
-      <link>https://www.andreasschlueter.com/author/tilmann-gneiting/</link>
+      <link>http://www.andreasschlueter.com/author/tilmann-gneiting/</link>
     </image>
     
     <item>
       <title>Skill of Global Raw and Postprocessed Ensemble Predictions of Rainfall in the Tropics</title>
-      <link>https://www.andreasschlueter.com/publication/knippertz-skill-2020/</link>
+      <link>http://www.andreasschlueter.com/publication/knippertz-skill-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/knippertz-skill-2020/</guid>
+      <guid>http://www.andreasschlueter.com/publication/knippertz-skill-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Forecasts for the Occurrence of Precipitation Outperform Global Models over Northern Tropical Africa</title>
-      <link>https://www.andreasschlueter.com/publication/knippertz-statistical-2020/</link>
+      <link>http://www.andreasschlueter.com/publication/knippertz-statistical-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/knippertz-statistical-2020/</guid>
+      <guid>http://www.andreasschlueter.com/publication/knippertz-statistical-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skill of Global Raw and Postprocessed Ensemble Predictions in the Tropics</title>
-      <link>https://www.andreasschlueter.com/publication/vogel-skill-2019/</link>
+      <link>http://www.andreasschlueter.com/publication/vogel-skill-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/vogel-skill-2019/</guid>
+      <guid>http://www.andreasschlueter.com/publication/vogel-skill-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skill of Global Raw and Postprocessed Ensemble Predictions of Rainfall over Northern Tropical Africa</title>
-      <link>https://www.andreasschlueter.com/publication/vogel-skill-2018-1/</link>
+      <link>http://www.andreasschlueter.com/publication/vogel-skill-2018-1/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/vogel-skill-2018-1/</guid>
+      <guid>http://www.andreasschlueter.com/publication/vogel-skill-2018-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skill of Global Raw and Postprocessed Ensemble Predictions of Rainfall over Northern Tropical Africa</title>
-      <link>https://www.andreasschlueter.com/publication/vogel-skill-2018/</link>
+      <link>http://www.andreasschlueter.com/publication/vogel-skill-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/vogel-skill-2018/</guid>
+      <guid>http://www.andreasschlueter.com/publication/vogel-skill-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Forecasting of Tropical Rainfall Based on Spatio-Temporal Correlations and Equatorial Waves</title>
-      <link>https://www.andreasschlueter.com/publication/schlueter-statistical-2018/</link>
+      <link>http://www.andreasschlueter.com/publication/schlueter-statistical-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/schlueter-statistical-2018/</guid>
+      <guid>http://www.andreasschlueter.com/publication/schlueter-statistical-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Rainfall Forecasts in the Tropics Based on Spatio-Temporal Precipitation Properties and Tropical Wave Activity</title>
-      <link>https://www.andreasschlueter.com/publication/vogel-statistical-2018/</link>
+      <link>http://www.andreasschlueter.com/publication/vogel-statistical-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/vogel-statistical-2018/</guid>
+      <guid>http://www.andreasschlueter.com/publication/vogel-statistical-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical ensemble postprocessing for precipitation forecasting during the West African Monsoon</title>
-      <link>https://www.andreasschlueter.com/publication/vogel-statistical-2017/</link>
+      <link>http://www.andreasschlueter.com/publication/vogel-statistical-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/vogel-statistical-2017/</guid>
+      <guid>http://www.andreasschlueter.com/publication/vogel-statistical-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical forecasting for precipitation over West Africa based on spatio-temporal precipitation properties and tropical wave activity</title>
-      <link>https://www.andreasschlueter.com/publication/vogel-statistical-2017-1/</link>
+      <link>http://www.andreasschlueter.com/publication/vogel-statistical-2017-1/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/vogel-statistical-2017-1/</guid>
+      <guid>http://www.andreasschlueter.com/publication/vogel-statistical-2017-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical forecasting of tropical rainfall using equatorial waves</title>
-      <link>https://www.andreasschlueter.com/publication/schluter-statistical-2017/</link>
+      <link>http://www.andreasschlueter.com/publication/schluter-statistical-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/schluter-statistical-2017/</guid>
+      <guid>http://www.andreasschlueter.com/publication/schluter-statistical-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical postprocessing for precipitation forecasts during the West African Monsoon</title>
-      <link>https://www.andreasschlueter.com/publication/vogel-statistical-2016/</link>
+      <link>http://www.andreasschlueter.com/publication/vogel-statistical-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/vogel-statistical-2016/</guid>
+      <guid>http://www.andreasschlueter.com/publication/vogel-statistical-2016/</guid>
       <description></description>
     </item>
     

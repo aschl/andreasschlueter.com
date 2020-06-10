@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Andreas Schlueter</title>
-    <link>https://www.andreasschlueter.com/tags/</link>
-      <atom:link href="https://www.andreasschlueter.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.andreasschlueter.com/tags/</link>
+      <atom:link href="http://www.andreasschlueter.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Schlueter</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.andreasschlueter.com/images/icon_hu5f3ffe0713a26eb26090eda74b103c3a_32865_512x512_fill_lanczos_center_2.png</url>
+      <url>http://www.andreasschlueter.com/images/icon_hu5f3ffe0713a26eb26090eda74b103c3a_32865_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
-      <link>https://www.andreasschlueter.com/tags/</link>
+      <link>http://www.andreasschlueter.com/tags/</link>
     </image>
     
   </channel>

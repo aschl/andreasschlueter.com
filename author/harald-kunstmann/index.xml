@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Harald Kunstmann | Andreas Schlueter</title>
-    <link>https://www.andreasschlueter.com/author/harald-kunstmann/</link>
-      <atom:link href="https://www.andreasschlueter.com/author/harald-kunstmann/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.andreasschlueter.com/author/harald-kunstmann/</link>
+      <atom:link href="http://www.andreasschlueter.com/author/harald-kunstmann/index.xml" rel="self" type="application/rss+xml" />
     <description>Harald Kunstmann</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Schlueter</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.andreasschlueter.com/images/icon_hu5f3ffe0713a26eb26090eda74b103c3a_32865_512x512_fill_lanczos_center_2.png</url>
+      <url>http://www.andreasschlueter.com/images/icon_hu5f3ffe0713a26eb26090eda74b103c3a_32865_512x512_fill_lanczos_center_2.png</url>
       <title>Harald Kunstmann</title>
-      <link>https://www.andreasschlueter.com/author/harald-kunstmann/</link>
+      <link>http://www.andreasschlueter.com/author/harald-kunstmann/</link>
     </image>
     
     <item>
       <title>Sensitivity of West African precipitation to lateral terrestrial water flow in WRF-Hydro</title>
-      <link>https://www.andreasschlueter.com/publication/arnault-sensitivity-2018/</link>
+      <link>http://www.andreasschlueter.com/publication/arnault-sensitivity-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.andreasschlueter.com/publication/arnault-sensitivity-2018/</guid>
+      <guid>http://www.andreasschlueter.com/publication/arnault-sensitivity-2018/</guid>
       <description></description>
     </item>
     
